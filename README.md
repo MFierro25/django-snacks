@@ -7,4 +7,4 @@ Create web site in Django with 2 pages
 - Should be built the “Django way” aka match the structure of in-class demo
 
 ## PR:
-![recent PR]()
+![recent PR](https://github.com/MFierro25/django-snacks/pull/1)
